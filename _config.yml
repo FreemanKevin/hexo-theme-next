@@ -726,6 +726,7 @@ busuanzi_count:
 # ---------------------------------------------------------------
 
 # Algolia Search
+# See: ./docs/ALGOLIA-SEARCH.md
 # For more information: https://www.algolia.com
 algolia_search:
   enable: false
